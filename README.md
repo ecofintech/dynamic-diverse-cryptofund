@@ -1,2 +1,2 @@
 # dynamic-diverse-cryptofund
-Smart contract design and development for crypto-investment fund
+Crypto-Investment Fund Smart Contract
